@@ -1,16 +1,17 @@
-## Hi there 👋
+![Mi foto](Gemini_Generated_Image_1fp9081fp9081fp9.png)
+Soy estudiante de **Ingeniería Mecatrónica** en **séptimo semestre**.  
+ 💻 Lenguajes de Programación
+    - Java (Programación Orientada a Objetos)  
+    - C (Programación estructurada)  
+    - Python (En aprendizaje)  
 
-<!--
-**NayMera/NayMera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+ ⚙️ Conocimientos en Manufactura
+    -  Operación de máquinas CNC router y freasadora  
+    - Corte por plasma
+    - Torno paralelo
+    - Fresadora vertical  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+ 🎨 Herramientas de Diseño
+    - Manejo de software CAD
