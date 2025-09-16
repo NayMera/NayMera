@@ -1,4 +1,6 @@
-![Mi foto](Gemini_Generated_Image_1fp9081fp9081fp9.png)
+![Mi foto](finalcuca.png)
+
+
 Soy estudiante de **Ingeniería Mecatrónica** en **séptimo semestre**.  
  💻 Lenguajes de Programación
     - Java (Programación Orientada a Objetos)  
